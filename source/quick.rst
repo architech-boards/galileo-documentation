@@ -68,8 +68,8 @@ Make sure the board can be seen by your host machine:
 .. raw:: html
 
  <div>
- <div><b class="admonition-board">&nbsp;&nbsp;Board&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_rst-board-241' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_rst-board-241" class="language-markup">ifconfig eth0 192.168.0.10</code></pre>
+ <div><b class="admonition-board">&nbsp;&nbsp;Board&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_rst-board-221' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_rst-board-221" class="language-markup">ifconfig eth0 192.168.0.10</code></pre>
  <script src="_static/prism.js"></script>
  <script src="_static/select_text.js"></script>
  </div>
@@ -77,8 +77,8 @@ Make sure the board can be seen by your host machine:
 .. raw:: html
 
  <div>
- <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_rst-host-121' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_rst-host-121" class="language-markup">ping 192.168.0.10</code></pre>
+ <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_rst-host-131' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_rst-host-131" class="language-markup">ping 192.168.0.10</code></pre>
  <script src="_static/prism.js"></script>
  <script src="_static/select_text.js"></script>
  </div>
@@ -88,8 +88,8 @@ If the output is similar to this one:
 .. raw:: html
 
  <div>
- <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_rst-host-122' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_rst-host-122" class="language-markup">64 bytes from 192.168.0.100: icmp_req=1 ttl=64 time=0.946 ms
+ <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_rst-host-132' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_rst-host-132" class="language-markup">64 bytes from 192.168.0.100: icmp_req=1 ttl=64 time=0.946 ms
  64 bytes from 192.168.0.100: icmp_req=2 ttl=64 time=0.763 ms
  64 bytes from 192.168.0.100: icmp_req=3 ttl=64 time=0.671 ms
  64 bytes from 192.168.0.100: icmp_req=4 ttl=64 time=0.793 ms</code></pre>
@@ -102,8 +102,8 @@ then the ethernet connection is ok. Enable the remote debug with Yocto by typing
 .. raw:: html
 
  <div>
- <div><b class="admonition-board">&nbsp;&nbsp;Board&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_rst-board-242' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_rst-board-242" class="language-markup">/etc/init.d/tcf-agent restart</code></pre>
+ <div><b class="admonition-board">&nbsp;&nbsp;Board&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_rst-board-222' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_rst-board-222" class="language-markup">/etc/init.d/tcf-agent restart</code></pre>
  <script src="_static/prism.js"></script>
  <script src="_static/select_text.js"></script>
  </div>
@@ -153,8 +153,8 @@ On the Host machine, follow these steps to let **Eclipse** deploy and debug your
 .. raw:: html
 
  <div>
- <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_rst-host-123' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_rst-host-123" class="language-markup">/home/architech/architech_sdk/architech/galileo/toolchain/sysroots/i686-pokysdk-linux/usr/bin/arm-poky-linux-uclibc/arm-poky-linux-uclibc-gdb</code></pre>
+ <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_rst-host-133' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_rst-host-133" class="language-markup">/home/architech/architech_sdk/architech/galileo/toolchain/sysroots/i686-pokysdk-linux/usr/bin/arm-poky-linux-uclibc/arm-poky-linux-uclibc-gdb</code></pre>
  <script src="_static/prism.js"></script>
  <script src="_static/select_text.js"></script>
  </div>
@@ -165,8 +165,8 @@ On the Host machine, follow these steps to let **Eclipse** deploy and debug your
 .. raw:: html
 
  <div>
- <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_rst-host-124' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_rst-host-124" class="language-markup">/home/architech/architech_sdk/architech/galileo/sysroot/lib
+ <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_rst-host-134' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_rst-host-134" class="language-markup">/home/architech/architech_sdk/architech/galileo/sysroot/lib
  /home/architech/architech_sdk/architech/galileo/sysroot/usr/lib</code></pre>
  <script src="_static/prism.js"></script>
  <script src="_static/select_text.js"></script>

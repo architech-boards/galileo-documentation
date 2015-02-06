@@ -95,8 +95,8 @@ Connect Galileo console to your PC and power-on the board. Once you built the pr
 .. raw:: html
 
  <div>
- <div><b class="admonition-board">&nbsp;&nbsp;Board&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'eclipse_rst-board-231' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="eclipse_rst-board-231" class="language-markup">galileo login: root
+ <div><b class="admonition-board">&nbsp;&nbsp;Board&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'eclipse_rst-board-241' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="eclipse_rst-board-241" class="language-markup">galileo login: root
  /etc/init.d/tcf-agent restart</code></pre>
  <script src="_static/prism.js"></script>
  <script src="_static/select_text.js"></script>
@@ -147,8 +147,8 @@ On the Host machine, follow these steps to let **Eclipse** deploy and debug your
 .. raw:: html
 
  <div>
- <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'eclipse_rst-host-101' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="eclipse_rst-host-101" class="language-markup">/home/architech/architech_sdk/architech/galileo/toolchain/sysroots/i686-pokysdk-linux/usr/bin/arm-poky-linux-uclibc/arm-poky-linux-uclibc-gdb</code></pre>
+ <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'eclipse_rst-host-151' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="eclipse_rst-host-151" class="language-markup">/home/architech/architech_sdk/architech/galileo/toolchain/sysroots/i686-pokysdk-linux/usr/bin/arm-poky-linux-uclibc/arm-poky-linux-uclibc-gdb</code></pre>
  <script src="_static/prism.js"></script>
  <script src="_static/select_text.js"></script>
  </div>
@@ -159,8 +159,8 @@ On the Host machine, follow these steps to let **Eclipse** deploy and debug your
 .. raw:: html
 
  <div>
- <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'eclipse_rst-host-102' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="eclipse_rst-host-102" class="language-markup">/home/architech/architech_sdk/architech/galileo/sysroot/lib
+ <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'eclipse_rst-host-152' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="eclipse_rst-host-152" class="language-markup">/home/architech/architech_sdk/architech/galileo/sysroot/lib
  /home/architech/architech_sdk/architech/galileo/sysroot/usr/lib</code></pre>
  <script src="_static/prism.js"></script>
  <script src="_static/select_text.js"></script>

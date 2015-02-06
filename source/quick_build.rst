@@ -37,8 +37,8 @@
 .. raw:: html
 
  <div>
- <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_build_rst-host-11' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_build_rst-host-11" class="language-markup">gedit conf/local.conf</code></pre>
+ <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_build_rst-host-31' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_build_rst-host-31" class="language-markup">gedit conf/local.conf</code></pre>
  <script src="_static/prism.js"></script>
  <script src="_static/select_text.js"></script>
  </div>
@@ -48,8 +48,8 @@
 .. raw:: html
 
  <div>
- <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_build_rst-host-12' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_build_rst-host-12" class="language-markup">IMAGE_INSTALL_append = " tcf-agent gdbserver"</code></pre>
+ <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_build_rst-host-32' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_build_rst-host-32" class="language-markup">IMAGE_INSTALL_append = " tcf-agent gdbserver"</code></pre>
  <script src="_static/prism.js"></script>
  <script src="_static/select_text.js"></script>
  </div>
@@ -61,8 +61,8 @@ Now set BB_NUMBER_THREADS and PARALLEL_MAKE values:
 .. raw:: html
 
  <div>
- <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_build_rst-host-13' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_build_rst-host-13" class="language-markup">BB_NUMBER_THREADS = X
+ <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_build_rst-host-33' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_build_rst-host-33" class="language-markup">BB_NUMBER_THREADS = X
  PARALLEL_MAKE = X</code></pre>
  <script src="_static/prism.js"></script>
  <script src="_static/select_text.js"></script>
@@ -79,8 +79,8 @@ Now set BB_NUMBER_THREADS and PARALLEL_MAKE values:
 .. raw:: html
 
  <div>
- <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_build_rst-host-14' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_build_rst-host-14" class="language-markup">bitbake image-full-galileo</code></pre>
+ <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_build_rst-host-34' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_build_rst-host-34" class="language-markup">bitbake image-full-galileo</code></pre>
  <script src="_static/prism.js"></script>
  <script src="_static/select_text.js"></script>
  </div>
@@ -90,8 +90,8 @@ At the end of the build process, the image will be saved inside directory:
 .. raw:: html
 
  <div>
- <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_build_rst-host-15' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_build_rst-host-15" class="language-markup">/home/architech/architech_sdk/architech/galileo/yocto/meta-clanton_v1.0.1/yocto_build/tmp/deploy/images/</code></pre>
+ <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_build_rst-host-35' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_build_rst-host-35" class="language-markup">/home/architech/architech_sdk/architech/galileo/yocto/meta-clanton_v1.0.1/yocto_build/tmp/deploy/images/</code></pre>
  <script src="_static/prism.js"></script>
  <script src="_static/select_text.js"></script>
  </div>
@@ -101,8 +101,8 @@ At the end of the build process, the image will be saved inside directory:
 .. raw:: html
 
  <div>
- <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_build_rst-host-16' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_build_rst-host-16" class="language-markup">cd /home/architech/architech_sdk/architech/galileo/yocto/meta-clanton_v1.0.1/yocto_build/tmp/deploy/images/
+ <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'quick_build_rst-host-36' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="quick_build_rst-host-36" class="language-markup">cd /home/architech/architech_sdk/architech/galileo/yocto/meta-clanton_v1.0.1/yocto_build/tmp/deploy/images/
  mkdir rootfs
  sudo mount -o loop image-full-galileo-clanton.ext3 rootfs/
  cd rootfs

@@ -17,7 +17,7 @@ The password for the default user, that is **architech**, is:
 What is the password of **sudo**?
 ---------------------------------
 
-The default passowrd of **architech** is **architech**. If you are searching more information about **sudo** command please refer to :ref:`sudo <sudo_info_label>` section of the :ref:`appendix <appendix_label>`.
+The default password of **architech** is **architech**. If you are searching more information about **sudo** command please refer to :ref:`sudo <sudo_info_label>` section of the :ref:`appendix <appendix_label>`.
 
 What is the password for user root?
 -----------------------------------

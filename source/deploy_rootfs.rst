@@ -16,8 +16,8 @@ To deploy the root file system, you need a micro SD card (or USB device).
 .. raw:: html
 
  <div>
- <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'deploy_rootfs_rst-host-131' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="deploy_rootfs_rst-host-131" class="language-markup">cp -r ~/architech_sdk/architech/galileo/yocto/meta-clanton_v1.0.1/yocto_build/tmp/deploy/images/boot /path/to/your/sd/card/device
+ <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'deploy_rootfs_rst-host-101' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="deploy_rootfs_rst-host-101" class="language-markup">cp -r ~/architech_sdk/architech/galileo/yocto/meta-clanton_v1.0.1/yocto_build/tmp/deploy/images/boot /path/to/your/sd/card/device
  cp ~/architech_sdk/architech/galileo/yocto/meta-clanton_v1.0.1/yocto_build/tmp/deploy/images/bzImage /path/to/your/sd/card/device
  cp ~/architech_sdk/architech/galileo/yocto/meta-clanton_v1.0.1/yocto_build/tmp/deploy/images/core-image-minimal-initramfs-clanton.cpio.gz /path/to/your/sd/card/device
  cp ~/architech_sdk/architech/galileo/yocto/meta-clanton_v1.0.1/yocto_build/tmp/deploy/images/image-full-galileo-clanton.ext3 /path/to/your/sd/card/device</code></pre>

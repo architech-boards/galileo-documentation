@@ -2,7 +2,7 @@
 Architech's Galileo documentation
 *********************************
 
-:Version: 1.2.0A
+:Version: 1.2.0C
 :Copyright: Architech
 :Date: 22/01/2015
 
@@ -39,8 +39,8 @@ notation is used.
 .. raw:: html
 
  <div>
- <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'index_rst-host-61' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="index_rst-host-61" class="language-markup">This Box will be used where long lines need to be displayed, as well as with system paths, commands, configuration files, etc.
+ <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'index_rst-host-191' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="index_rst-host-191" class="language-markup">This Box will be used where long lines need to be displayed, as well as with system paths, commands, configuration files, etc.
  All related to the host.
  It will be used to display code example as well.</code></pre>
  <script src="_static/prism.js"></script>
@@ -50,8 +50,8 @@ notation is used.
 .. raw:: html
 
  <div>
- <div><b class="admonition-board">&nbsp;&nbsp;Board&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'index_rst-board-221' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="index_rst-board-221" class="language-markup">The same facility will be used, when needed, for the board.</code></pre>
+ <div><b class="admonition-board">&nbsp;&nbsp;Board&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'index_rst-board-251' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="index_rst-board-251" class="language-markup">The same facility will be used, when needed, for the board.</code></pre>
  <script src="_static/prism.js"></script>
  <script src="_static/select_text.js"></script>
  </div>
@@ -68,8 +68,8 @@ could read something like this in the documentation:
 .. raw:: html
 
  <div>
- <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'index_rst-host-62' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="index_rst-host-62" class="language-markup">/path/to/your/USB/device</code></pre>
+ <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'index_rst-host-192' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="index_rst-host-192" class="language-markup">/path/to/your/USB/device</code></pre>
  <script src="_static/prism.js"></script>
  <script src="_static/select_text.js"></script>
  </div>
@@ -80,8 +80,8 @@ machine, like for example:
 .. raw:: html
 
  <div>
- <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'index_rst-host-63' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="index_rst-host-63" class="language-markup">/dev/sdb</code></pre>
+ <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'index_rst-host-193' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="index_rst-host-193" class="language-markup">/dev/sdb</code></pre>
  <script src="_static/prism.js"></script>
  <script src="_static/select_text.js"></script>
  </div>
@@ -92,8 +92,8 @@ When referring to a specific partition of a device, you could read something lik
 .. raw:: html
 
  <div>
- <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'index_rst-host-64' );">select</a></div>
- <pre class="line-numbers pre-replacer" data-start="1"><code id="index_rst-host-64" class="language-markup">/path/to/your/USB/device/partition</code></pre>
+ <div><b class="admonition-host">&nbsp;&nbsp;Host&nbsp;&nbsp;</b>&nbsp;&nbsp;<a style="float: right;" href="javascript:select_text( 'index_rst-host-194' );">select</a></div>
+ <pre class="line-numbers pre-replacer" data-start="1"><code id="index_rst-host-194" class="language-markup">/path/to/your/USB/device/partition</code></pre>
  <script src="_static/prism.js"></script>
  <script src="_static/select_text.js"></script>
  </div>
