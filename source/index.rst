@@ -3,7 +3,7 @@ Avnet's Galileo documentation
 *****************************
 
 :Version: 1.2.0C
-:Copyright: Avnet Silica
+:Copyright: (C)2016 Avnet Silica company
 :Date: 22/01/2015
 
 .. image:: _static/board.png
