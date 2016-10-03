@@ -1,9 +1,9 @@
-*********************************
-Architech's Galileo documentation
-*********************************
+*****************************
+Avnet's Galileo documentation
+*****************************
 
 :Version: 1.2.0C
-:Copyright: Architech
+:Copyright: Avnet Silica
 :Date: 22/01/2015
 
 .. image:: _static/board.png
